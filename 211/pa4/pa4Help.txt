@@ -1,0 +1,11 @@
+fifo- dir	YES
+fifo- ful	YES
+fifo- n		YES
+
+lru- dir	YES
+lru- ful	YES
+lru- n		YES
+
+nru- dir	YES
+nru- ful	YES
+nru- n		YES
